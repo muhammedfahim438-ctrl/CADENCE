@@ -1,0 +1,14 @@
+# MCP / opencode tooling (not part of the handoff)
+opencode.json
+.opencode/
+.slides/
+
+# Datasets: kept on disk, shared separately (not in this repo)
+datasets/
+
+# Python caches
+__pycache__/
+.pytest_cache/
+*.pyc
+node_modules/
+.DS_Store
