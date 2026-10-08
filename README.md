@@ -36,6 +36,15 @@ Expected: all tests pass.
 
 ## Datasets
 
-Raw CSV datasets are **not** in this repo. They are shared separately. The
-engine reads a day's token log in memory; nothing here requires a data
+Raw CSV datasets are **not** in this repo. They are shared separately via the
+**[v4.0-datasets release](https://github.com/muhammedfahim438-ctrl/CADENCE/releases/tag/v4.0-datasets)**.
+
+Direct downloads:
+
+- [healthcare_analytics_patient_flow_data.csv](https://github.com/muhammedfahim438-ctrl/CADENCE/releases/download/v4.0-datasets/healthcare_analytics_patient_flow_data.csv)
+- [healthcare_noshows_appointments.csv](https://github.com/muhammedfahim438-ctrl/CADENCE/releases/download/v4.0-datasets/healthcare_noshows_appointments.csv)
+- [hospital_sim_6_scenarios.csv](https://github.com/muhammedfahim438-ctrl/CADENCE/releases/download/v4.0-datasets/hospital_sim_6_scenarios.csv)
+- [KaggleV2-May-2016.csv](https://github.com/muhammedfahim438-ctrl/CADENCE/releases/download/v4.0-datasets/KaggleV2-May-2016.csv)
+
+The engine reads a day's token log in memory; nothing here requires a data
 download.
