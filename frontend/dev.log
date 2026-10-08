@@ -1,0 +1,14 @@
+
+> cadence-frontend@0.1.0 dev
+> next dev
+
+  ▲ Next.js 14.2.5
+  - Local:        http://localhost:3000
+
+ ✓ Starting...
+ ✓ Ready in 4.1s
+ ○ Compiling / ...
+ ✓ Compiled / in 4.9s (460 modules)
+ GET / 200 in 59ms
+ GET / 200 in 42ms
+ GET / 200 in 56ms
